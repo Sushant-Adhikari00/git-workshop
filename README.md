@@ -3,7 +3,7 @@
 *************
 # Hi there! 👋
 
-I'm [someone], a passionate [Student of NCIT] from [Lalitpur]. Welcome to my GitHub profile! 🚀
+I'm [someone], a passionate [Student of some college] from [Lalitpur]. Welcome to my GitHub profile! 🚀
 
 ## 🔧 Skills & Tools
 
